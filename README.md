@@ -6,3 +6,8 @@ To use this program you will need to create or download a binary for your softwa
 To run the algorithm, all you will need to do is double tap to run the binary file and your exisiting .log files will be converted into .s2p files and moved into a new folder named according to date. The files will have the same naming convention but you will see both a .log and .s2p file for each file name. 
 
 # Modifications
+
+# Build
+```bash
+make build_all
+```
