@@ -25,7 +25,7 @@ Build an executable for Linux OS.
 make build_linux
 ```
 # Installation
-Place the executable into the folder containing your files with the .log extension that you wish to convert from Silvaco (.log) to Sonnet (.log). <br>
+Place the executable into a folder and place this new folder into the folder containing your files with the .log extension that you wish to convert from Silvaco (.log) to Sonnet (.log). <br>
 <i> Please note that you must include the .log extension on all files you wish to convert from .log to .s2p </i> 
 
 # Reformat your data
